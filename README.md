@@ -269,7 +269,7 @@ O pipeline foi aplicado a quatro imagens reais de teste. Para cada imagem, os tr
 
 O relatório técnico-acadêmico completo do projeto está disponível em:
 
-📄 [`docs/relatorio_binarizacao.docx`](./docs/relatorio_binarizacao.docx)
+📄 https://github.com/john-richard13/binariza-o_imagens_py/blob/main/(DIO)relatorio.pdf
 
 O documento cobre: fundamentação matemática dos algoritmos, análise de complexidade computacional, discussão dos resultados e referências bibliográficas (Gonzalez & Woods, Otsu 1979, ITU-R BT.601/BT.709).
 
