@@ -1,6 +1,6 @@
 # 🖼️ Binarização de Imagens Digitais
 
-> Implementação em Python puro de um pipeline completo para conversão de imagens coloridas em **tons de cinza** (0–255) e **imagens binarizadas** (0 e 255), com três métodos de limiarização. Desenvolvido como projeto acadêmico para a disciplina de **Processamento Digital de Imagens (PDI)**.
+> Implementação em Python puro de um pipeline completo para conversão de imagens coloridas em **tons de cinza** (0–255) e **imagens binarizadas** (0 e 255), com três métodos de limiarização. Desenvolvido como projeto acadêmico durante o bootcamp de Machine Learning da plataforma DIO.
 
 ---
 
